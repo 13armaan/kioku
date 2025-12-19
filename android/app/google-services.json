@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237692784523",
+    "project_id": "kioku-d013d",
+    "storage_bucket": "kioku-d013d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237692784523:android:b05b17aa5fac151a44a98e",
+        "android_client_info": {
+          "package_name": "com.example.proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWYpJh0MbUcB457e7YVJc3vLnDAAxLFhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237692784523:android:f669bd3515cc055644a98e",
+        "android_client_info": {
+          "package_name": "com.safari.kioku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWYpJh0MbUcB457e7YVJc3vLnDAAxLFhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

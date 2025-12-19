@@ -1,0 +1,69 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies
+**/doc/api/
+
+# IntelliJ/Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+
+../
+../../
+*.log
+*.txt
+password*
+.env
+
+# VS Code (optional, uncomment if using VS Code)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.class
+*.pyc
+*.swp
+
+# iOS build files
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+ios/DerivedData/
+
+# Android build files
+android/.gradle/
+android/app/build/
+android/build/
+android/app/*.iml
+android/captures/
+android/local.properties
+
+# Linux/MacOS/Windows builds
+linux/flutter/generated_plugin_registrant.cc
+macos/Flutter/GeneratedPluginRegistrant.swift
+windows/flutter/generated_plugin_registrant.cc
+windows/runner/Release/
+windows/runner/Debug/
+
+# Symbolication/obfuscation files
+app.*.symbols
+app.*.map.json
+
+# Miscellaneous
+*.swp
+*.swo
