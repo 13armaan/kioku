@@ -99,6 +99,11 @@ KIOKU generates **project-specific quizzes** to help users:
 Multiple pages → one project → shared context.
 
 ---
+## 🎥 Demo Video
+
+Watch a short demo of KIOKU in action:
+
+▶️ https://youtube.com/shorts/KiZXbqFWl3o?si=WGHhAThWgtSgw84v
 
 ## 🛠️ Tech Stack
 
